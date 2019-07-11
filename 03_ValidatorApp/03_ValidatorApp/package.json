@@ -1,0 +1,12 @@
+{
+  "name": "03_validator-app",
+  "version": "0.0.0",
+  "description": "03_ValidatorApp",
+  "main": "app.js",
+  "author": {
+    "name": "budinskiy_d"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
